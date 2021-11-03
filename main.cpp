@@ -1,5 +1,4 @@
 #include <iostream>
-
 #include <chrono>
 #include "TimeTester.h"
 using namespace std;
