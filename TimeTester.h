@@ -1,5 +1,5 @@
 //
-// Created by jadon on 10/1/2021.
+// Created by jadon stronge on 10/1/2021.
 //
 
 #ifndef PA03_TEMPLATE_TIMETESTER_H
