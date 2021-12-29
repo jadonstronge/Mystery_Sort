@@ -1,3 +1,7 @@
+## Description
+
+My program tests different sized arrays against five unknown sorts wrapped in a statically linked library, as well as a report identifying the possible identities of the sorts. By recording the performance time of the sorts, the report shows an understanding of how different sorting algorithms perform dependent on size and order of array - understanding of Big(O) and algorithms.
+
 # Fall 2021 - PA03 - Mystery Sort
 
 - See the project handout [here](https://docs.google.com/document/d/1AsL1vmUqZs5aESM39dEMD6mSQdIcFVvCoVp1Vh2YbPc/edit?usp=sharing)
